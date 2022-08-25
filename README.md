@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at **AFPA, Brest**
 
-- 🌱 I’m currentlay learning **React, Express, NodeJS, MongoDB ( MERN Stack )**
+- 🌱 I’m currently learning **React, Express, NodeJS, MongoDB ( MERN Stack )**
 
-- 📫 How to reach me **lilian.evano@gmail.com**
+- 📫 You can reach me here: **lilian.evano@gmail.com**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
